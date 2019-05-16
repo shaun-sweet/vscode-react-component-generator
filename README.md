@@ -25,12 +25,12 @@ The extension automatically creates folder for react component containing :
 
 Install through VS Code extensions. Search for `VSCode React Component Generator`
 
-[Visual Studio Code Market Place: VSCode React Component Generator](https://marketplace.visualstudio.com/items?itemName=abdullahceylan.vscode-react-component-generator)
+[Visual Studio Code Market Place: VSCode React Component Generator](https://marketplace.visualstudio.com/items?itemName=ssweet.vscode-react-component-generator)
 
 Can also be installed in VS Code: Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```bash
-ext install abdullahceylan.vscode-react-component-generator
+ext install ssweet.vscode-react-component-generator
 ```
 
 ## Usage
