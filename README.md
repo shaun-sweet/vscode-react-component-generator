@@ -7,9 +7,6 @@
 [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 [![GitHub](https://flat.badgen.net/github/release/abdullahceylan/vscode-react-component-generator)](https://github.com/abdullahceylan/vscode-react-component-generator/releases)
 
-## Other Versions
-[Please click here for React Native version](https://marketplace.visualstudio.com/items?itemName=abdullahceylan.vscode-react-native-component-generator)
-
 ## Description
 
 The extension automatically creates folder for react component containing :
@@ -117,4 +114,4 @@ The type of stylesheet file to create. Valid options:
 
 ## Bugs
 
-Please report [here](https://github.com/abdullahceylan/vscode-react-component-generator/issues)
+Please report [here](https://github.com/shaun-sweet/vscode-react-component-generator/pulls)
