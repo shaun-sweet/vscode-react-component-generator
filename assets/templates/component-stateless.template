@@ -2,7 +2,7 @@ import React from {quotes}react{quotes};
 import PropTypes from {quotes}prop-types{quotes};
 import { {componentName}Wrapper } from {quotes}./{componentName}.styles{quotes};
 
-const {componentName} = (props) => (
+const {componentName} = props => (
   <{componentName}Wrapper>
     This is a {componentName}
   </{componentName}Wrapper>
