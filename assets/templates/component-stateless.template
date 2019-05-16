@@ -1,11 +1,11 @@
 import React from {quotes}react{quotes};
 import PropTypes from {quotes}prop-types{quotes};
-//import { Test } from './{componentName}.styles';
+import { {componentName}Wrapper } from {quotes}./{componentName}.styles{quotes};
 
 const {componentName} = (props) => (
-  <div className="{componentName}Wrapper">
-    Test content
-  </div>
+  <{componentName}Wrapper>
+    This is a {componentName}
+  </{componentName}Wrapper>
 );
 
 {componentName}.propTypes = {
