@@ -123,19 +123,19 @@
     "commands": [
       {
         "command": "extension.genReactContainerComponentFiles",
-        "title": "New React Container Component"
+        "title": "New Container Component"
       },
       {
         "command": "extension.genReactStatelessComponentFiles",
-        "title": "New React Stateless Component"
+        "title": "New Stateless Component"
       },
       {
         "command": "extension.genReactReduxContainerComponentFiles",
-        "title": "New React Container Component with Redux"
+        "title": "New Container Component with Redux"
       },
       {
         "command": "extension.genReactReduxStatelessComponentFiles",
-        "title": "New React Stateless Component with Redux"
+        "title": "New Stateless Component with Redux"
       }
     ],
     "menus": {
